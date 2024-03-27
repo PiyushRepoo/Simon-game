@@ -75,8 +75,8 @@ h1 {
 @media (max-width: 512px) {
   .btn {
     margin: 0;
-    width: 200px;
-    height: 300px;
+    width: 150px;
+    height: 100px;
   }
 
   .btn-container {
