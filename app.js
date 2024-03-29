@@ -67,7 +67,7 @@ function checkAns(idx) {
     }
   } else {
     h2.style.display = 'block';
-    h2.innerHTML = `Game over. <b>Your score is ${level}. </br>Press any key to start again.`;
+    h2.innerHTML = `Game over. <b>Your score is ${level}.`;
 
     reset();
   }
